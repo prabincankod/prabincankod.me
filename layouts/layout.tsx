@@ -19,7 +19,11 @@ export const Layout = (props: any) => {
         </div>
         <div className="navbar-center">
           <a className="btn btn-ghost normal-case text-xl">
-            <code>@prabincankod</code>
+            <code>
+              <a href="https://github.com/prabincankod">
+              @prabincankod
+              </a>
+            </code>
           </a>
         </div>
         <div className="navbar-end">
